@@ -1,2 +1,2 @@
-## PARA SABIHIN KO SAYO Discord bot
+# PARA SABIHIN KO SAYO Discord bot
 A message spammer Discord bot
